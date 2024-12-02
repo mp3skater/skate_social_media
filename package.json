@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mp3skater.github.io/skate_social_media",
   "name": "skate_social_media",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +12,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://mp3skater.github.io/skate_social_media",
   "dependencies": {
     "@chakra-ui/react": "2.1.1",
     "@emotion/react": "11.11.1",
